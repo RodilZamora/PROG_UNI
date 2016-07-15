@@ -1,0 +1,1 @@
+Realice un porgrama que ingrese 2 número y  se pide la suma y multiplicación
